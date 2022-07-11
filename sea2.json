@@ -1,0 +1,554 @@
+[
+  {
+    "title": "5060들만의 치앙마이 多色 골프 5,6일 #품격",
+    "contents": "5060 누구나 함께 치앙마이 명문 골프장 알파인CC와 하이랜드CC, 방역완비된 시내 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/453ff5d8b9514.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a9f1accfa3fa0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/16dc58107ed1f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6f02ce4571c4d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9e110bc67fff0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1a138163b1258.jpg"
+    ],
+    "price": 1290000,
+    "period": 5,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "4050",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "3040들만의 치앙마이 多色 골프 5,6일 #실속",
+    "contents": "3040 누구나 함께 치앙마이 실속 골프, 매일 다른 명문 골프장 각 18홀 3회, 방역완비, 시내에 위치한 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/84e629bfe3650.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/63f9da6d9fed1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/feefe1b5b2205.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ad987d01b10ff.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b9501063711e0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/44910e5d26a9a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fe4beba64daef.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "3040",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "핸디18이하 치앙마이 GOLFTEL 알파인CC 5,6일",
+    "contents": "핸디 18 이하만 출발하는 치앙마이 리조트, 최고 명문 골프장으로 난이도 있는 알파인CC, 방역완비된 품격 리조트에서 안전한 숙박",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/7cb9380d13190.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/06316b1619ce4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2a8ed7f35edef.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b04a80d244e1a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7afc7567098b7.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "남자들만 치앙마이 GOLFTEL 레거시CC 5,6일",
+    "contents": "남자들만 떠나는 치앙마이 레거시CC + 파노라마CC 매일 36홀, 한국인 상주로 불편함 없이 자유일정 가능",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/beb953f249812.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d2dfc847ab59b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/62109cb82d230.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ff1dd69b2ea4a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c1ef3bc0ab4ad.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/bad1e650b39e1.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "male",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "커플들만 치앙마이 GOLFTEL 하이랜드CC 5,6일",
+    "contents": "커플 또는 부부끼리 출발하는 치앙마이 골프텔 하이랜드에서 매일 18홀 라운드 방역 완비 부대시설 갖추어진 품격 리조트",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/26c27c67aa035.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5bedf2b7b391e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/20421bf0628b4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/306ddfdd6a436.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/86853167c0952.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "family",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "골린이의 치앙마이 GOLFTEL 쿤탄CC 5,6일",
+    "contents": "골프 초보끼리 매일 36홀 편안하게 즐기는 골프, 방역 완비 부대시설 갖추어진 품격 리조트 ,한국인 상주로 불편함 없이 자유일정 가능",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/0dd8abfd2240d.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6256fc5854c42.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4d9566de91d7e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b133bf5f0825c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d6bc51ccb244e.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220727, 20220730, 20220803, 20220806, 20220810, 20220813,
+      20220817, 20220820
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "3040들만 비엔티안 GOLFTEL 댄사반CC",
+    "contents": "3040끼리 함께 바다같은 남름 호숫가의 골프리조트 & 카지노 호텔, 수상 액티비티 즐기기",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220402/f568b9bac3880.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e60c6863d7c5b.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/284888bebb04d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/848a15c2ef72a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/08b37c93177a7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/040fb9c4302b9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/026a28cff46bb.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/25771c4552f49.jpg"
+    ],
+    "price": 590000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "3040",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "‘동양의 진주’ 라오스 비엔티엔에서 5년간 무료 라운딩",
+        "content": "‘동양의 진주’라고 불리우는 라오스 비엔티엔의 ‘댄사반 골프&카지노 리조트(Dansavanh Golf & Casino Resort)’ 회원권이 합리적인 가격대에 출시돼 국내 골퍼들의 관심을 끌고 있다.",
+        "img": "https://images.chosun.com/resizer/tZQDTnLKOwk85O6uw1-09LSVMtk=/616x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOL62IAMRZDTPJOZRONJGXS6VA.jpg"
+      },
+      {
+        "title": "김성범과 함께 라오스 “비엔티안·씨엥쿠앙불상공원·시판돈·놈삭따이마을”",
+        "content": "[한국강사신문 정헌희 기자] 몸과 마음의 휴식을 찾아 떠나는 아시아! 누구나 한 번쯤 푸른 초원 위에 그림 같은 집을 짓고 사는 꿈을 꾼다. 꿈꾸지 않아도 자연과 함께 평화롭고 여유로운 삶을 살아가는 아시아의 다양한 사람들을 만나보자!",
+        "img": "http://cdn.lecturernews.com/news/photo/202111/79720_284047_5310.png"
+      },
+      {
+        "title": "[여행honey] 잠 못 드는 열대야, 세계의 야시장 구경해볼까",
+        "content": "(서울=연합뉴스) 이른 열대야로 밤에도 무더위에 잠 못 이루는 요즘입니다. 이런 여름밤에 꼭 가야 하는 곳이 있죠. 바로 야시장입니다. 거리두기 해제 덕에 3년 만에 전국적으로 야시장이 다시 문을 열고 있습니다.",
+        "img": "https://img.yna.co.kr/etc/inner/KR/2022/07/06/AKR20220706003700805_01_i_P4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "여자들만의 비엔티안 多色 골프",
+    "contents": "여자들끼리만 출발하는 라오스 비엔티안에서 매일 다른 골프장, 각 18홀 3회+호텔 숙박 패키지, 방역완비 시내  5성급 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/999378e79e4ba.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0b54a36034d97.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/641971c895d0d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6581fe44acb35.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6cafd8073cec4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/426fe8e71a765.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0dcafe0ddcdc5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a8ee2be2d9fa7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/26e0313ed8319.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fe3ecb26ab629.jpg"
+    ],
+    "price": 890000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "female",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "‘동양의 진주’ 라오스 비엔티엔에서 5년간 무료 라운딩",
+        "content": "‘동양의 진주’라고 불리우는 라오스 비엔티엔의 ‘댄사반 골프&카지노 리조트(Dansavanh Golf & Casino Resort)’ 회원권이 합리적인 가격대에 출시돼 국내 골퍼들의 관심을 끌고 있다.",
+        "img": "https://images.chosun.com/resizer/tZQDTnLKOwk85O6uw1-09LSVMtk=/616x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOL62IAMRZDTPJOZRONJGXS6VA.jpg"
+      },
+      {
+        "title": "김성범과 함께 라오스 “비엔티안·씨엥쿠앙불상공원·시판돈·놈삭따이마을”",
+        "content": "[한국강사신문 정헌희 기자] 몸과 마음의 휴식을 찾아 떠나는 아시아! 누구나 한 번쯤 푸른 초원 위에 그림 같은 집을 짓고 사는 꿈을 꾼다. 꿈꾸지 않아도 자연과 함께 평화롭고 여유로운 삶을 살아가는 아시아의 다양한 사람들을 만나보자!",
+        "img": "http://cdn.lecturernews.com/news/photo/202111/79720_284047_5310.png"
+      },
+      {
+        "title": "[여행honey] 잠 못 드는 열대야, 세계의 야시장 구경해볼까",
+        "content": "(서울=연합뉴스) 이른 열대야로 밤에도 무더위에 잠 못 이루는 요즘입니다. 이런 여름밤에 꼭 가야 하는 곳이 있죠. 바로 야시장입니다. 거리두기 해제 덕에 3년 만에 전국적으로 야시장이 다시 문을 열고 있습니다.",
+        "img": "https://img.yna.co.kr/etc/inner/KR/2022/07/06/AKR20220706003700805_01_i_P4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "남자들만 파타야 GOLFTEL 파타나CC",
+    "contents": "남자들만 떠나는 파타야 4성급 골프 리조트에서 매일 36홀 라운드, 한국인 담당자, 한식당 보유한 가성비 골프장",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/9ad95e0bc13b9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/890bc1d7e6b73.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0cf72fd4ac7e5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7aff53ad0eb8d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4e3b6ea2e6e58.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/deefbf33a59ad.jpg"
+    ],
+    "price": 1590000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "male",
+    "destination": "sea",
+    "deadline": 20,
+    "available": false,
+    "news": [
+      {
+        "title": "태국 파타야, 올해의 아시아 3대 해양관광축제도시로 선정",
+        "content": "[티티엘뉴스] 태국의 유명 관광 휴양지 파타야(Pattaya)가 우리나라의 통영, 필리핀 세부(Cebu)와 함께 '2022 아시아 3대 해양관광축제도시'로 선정됐다.",
+        "img": "http://ttlnews.com/upload/editor_content_images/1649245408506_editor_image.wm.jpg"
+      },
+      {
+        "title": "다시 시작된 태국골프…클럽 볼 때마다 마음이 설렌다",
+        "content": "자연경관 뛰어난 다양한 골프장 매력, 5성급 라빈드라 비치 리조트서 휴양도",
+        "img": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_428650_16526412625042795.jpg"
+      },
+      {
+        "title": "[태국여행] 방콕에서 파타야 가는 길, 숨은 핫플레이스 있다",
+        "content": "무에타이 체육관부터 비타민 가득 열대과일농장, 현지인이 사랑하는 방센비치까지",
+        "img": "http://www.travelnbike.com/news/photo/201803/54756_75543_3540.jpg"
+      }
+    ]
+  },
+  {
+    "title": "3040들만 방콕 GOLFTEL 써밋윈드밀CC",
+    "contents": "3040 솔로 혼성그룹의 5성급 골프 리조트, 태국에서 가장 훌륭한 코스와 교통 편리한 위치, 리조트 한국인 상주로 편리한 외출 ",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/9ad95e0bc13b9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/890bc1d7e6b73.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d53ad0e610424.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/79641a7e10738.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e62ad0b438804.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e0f6273cf6de4.jpg"
+    ],
+    "price": 1690000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "3040",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "아시아나, LA·방콕 노선에 A380 투입한 까닭은?",
+        "content": "아시아나항공, A380 투입으로 방콕 주1379석·LA 주552석 추가 공급 확대",
+        "img": "https://www.sisaon.co.kr/news/photo/202206/139839_160413_5940.jpg"
+      },
+      {
+        "title": "다시 시작된 태국골프…클럽 볼 때마다 마음이 설렌다",
+        "content": "자연경관 뛰어난 다양한 골프장 매력, 5성급 라빈드라 비치 리조트서 휴양도",
+        "img": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_428650_16526412625042795.jpg"
+      },
+      {
+        "title": "[태국여행] 방콕에서 파타야 가는 길, 숨은 핫플레이스 있다",
+        "content": "무에타이 체육관부터 비타민 가득 열대과일농장, 현지인이 사랑하는 방센비치까지",
+        "img": "http://www.travelnbike.com/news/photo/201803/54756_75543_3540.jpg"
+      }
+    ]
+  },
+  {
+    "title": "5060들만 방콕&파타야 多色 골프",
+    "contents": "5060 누구나 함께 방콕-파타야 명품 골프, 매일 다른 명문 골프장 각 18홀 3회, 방역완비 시내  5성급 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220331/3d5851921c3a6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/8367944a9f455.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/eca9cfc39c7ac.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/dfc6d3872738d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/bbec907687d2f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/cca740e2733a4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ebb1ccbab57ac.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ff1ab8a22f2a9.jpg"
+    ],
+    "price": 1790000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "semi",
+    "group": "5060",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "아시아나, LA·방콕 노선에 A380 투입한 까닭은?",
+        "content": "아시아나항공, A380 투입으로 방콕 주1379석·LA 주552석 추가 공급 확대",
+        "img": "https://www.sisaon.co.kr/news/photo/202206/139839_160413_5940.jpg"
+      },
+      {
+        "title": "다시 시작된 태국골프…클럽 볼 때마다 마음이 설렌다",
+        "content": "자연경관 뛰어난 다양한 골프장 매력, 5성급 라빈드라 비치 리조트서 휴양도",
+        "img": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_428650_16526412625042795.jpg"
+      },
+      {
+        "title": "[태국여행] 방콕에서 파타야 가는 길, 숨은 핫플레이스 있다",
+        "content": "무에타이 체육관부터 비타민 가득 열대과일농장, 현지인이 사랑하는 방센비치까지",
+        "img": "http://www.travelnbike.com/news/photo/201803/54756_75543_3540.jpg"
+      }
+    ]
+  },
+  {
+    "title": "불교인들만 미얀마 9일",
+    "contents": "60톤의 금으로 장식한 부처님 사리탑 '쉐다곤파고다'와 앙코르 유적과 견주는 불교 성지 '바간', 부처님과 제자가 다녀갔다는 '만달레이' 투어",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/2b4937e2468bb.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f19942a709637.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/068576710d12b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3afb2d51a43b6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5fadbc08fbcd4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0c573604c2420.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7f4190c1b254e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4f94c6f1e0eaa.jpg"
+    ],
+    "price": 1590000,
+    "period": 9,
+    "start": [
+      20220723, 20220724, 20220730, 20220731, 20220806, 20220807, 20220813,
+      20220814, 20220820, 20220821
+    ],
+    "theme": "circuit",
+    "style": "full",
+    "group": "",
+    "destination": "sea",
+    "deadline": 30,
+    "available": true,
+    "news": [
+      {
+        "title": "미얀마 일상에 깃든 독실한 불교 문화",
+        "content": "미얀마는 국민의 89%가 불교도일 정도로 독실한 불교 국가다. 버마족(Burma)을 비롯해 샨족(Shan), 몬족(Mon) 등 여러 소수 민족들이 불교를 믿고 있으며 생활 속에서 참선과 기도, 명상 등을 실천해 나간다.",
+        "img": "https://cdn.travie.com/news/photo/202110/21983_12213_715.jpg"
+      },
+      {
+        "title": "[미얀마 여행 Inside] 한 발짝 더 내딛으면…여기가 미얀마의 속살",
+        "content": "'옷깃만 스쳐도 인연'이란 말은 그만큼 '관계'가 중요하다는 뜻이리라. 2020년은 한국과 미얀마가 수교한 지 45주년이 되는 해다.",
+        "img": "https://file.mk.co.kr/meet/neds/2020/01/image_readtop_2020_13443_15782508634039672.jpg"
+      },
+      {
+        "title": "평화로운 미얀마의 삶과 풍경 고스란히…김영록 작가 '미얀마의 삶과 풍경' 사진전",
+        "content": "시간이 멈춘 듯 평화로운 풍경이 가득한 미얀마의 일상과 그 속에서 하루하루를 열심히 살아가는 평범한 주민들의 삶을 담은 다큐멘터리 미얀마 민주시민 돕기 기금마련 - 김영록 사진전 ‘미얀마의 삶과 풍경’이 28일부터 10월 3일까지 대백프라자갤러리 A관(12F)에서 열린다",
+        "img": "http://www.kyongbuk.co.kr/news/photo/202109/2084169_510855_2954.jpg"
+      }
+    ]
+  },
+  {
+    "title": "자녀동반 라오스 10일",
+    "contents": "자녀동반 가족끼리 여행하는, 라오스의 숨은 절경을 모두 둘러보는 10일간의 여행, 패키지의 안전함과 자유여행의 즐거움을 동시에~",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/e3c2e8966649a.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/966bc43e2764d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/153b60651aab3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f1d72c20cbb99.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ad7db13a5301b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a2c1e0b3213ca.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/491ce76215f5c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e4fe180018ea3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b1f207a716d68.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ce3986b817701.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/de4b257cfabd6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/286b273a98698.jpg"
+    ],
+    "price": 1790000,
+    "period": 10,
+    "start": [
+      20220723, 20220724, 20220730, 20220731, 20220806, 20220807, 20220813,
+      20220814, 20220820, 20220821
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "family",
+    "destination": "sea",
+    "deadline": 30,
+    "available": true,
+    "news": [
+      {
+        "title": "‘당신이 알아야 할 라오스, 팍세 ",
+        "content": "루앙 프라방(Luang Prabang)도 방 비엥(Vang Vieng)도 아니다. 캄보디아와 태국과의 국경을 접하고 있는 도시이자 오랜 역사와 때 묻지 않은 자연, 순수한 사람들이 어울려 살고 있는 곳. 모르면 몰랐지, 알면 알수록 더 알고 싶은 세상, 라오스 남부의 팍세(Pakse) 이야기다. ",
+        "img": "https://cdn.travie.com/news/photo/202203/50213_21162_554.jpg"
+      },
+      {
+        "title": "김성범과 함께 라오스 “비엔티안·씨엥쿠앙불상공원·시판돈·놈삭따이마을”",
+        "content": "[한국강사신문 정헌희 기자] 몸과 마음의 휴식을 찾아 떠나는 아시아! 누구나 한 번쯤 푸른 초원 위에 그림 같은 집을 짓고 사는 꿈을 꾼다. 꿈꾸지 않아도 자연과 함께 평화롭고 여유로운 삶을 살아가는 아시아의 다양한 사람들을 만나보자!",
+        "img": "http://cdn.lecturernews.com/news/photo/202111/79720_284047_5310.png"
+      },
+      {
+        "title": "[여행honey] 잠 못 드는 열대야, 세계의 야시장 구경해볼까",
+        "content": "(서울=연합뉴스) 이른 열대야로 밤에도 무더위에 잠 못 이루는 요즘입니다. 이런 여름밤에 꼭 가야 하는 곳이 있죠. 바로 야시장입니다. 거리두기 해제 덕에 3년 만에 전국적으로 야시장이 다시 문을 열고 있습니다.",
+        "img": "https://img.yna.co.kr/etc/inner/KR/2022/07/06/AKR20220706003700805_01_i_P4.jpg"
+      }
+    ]
+  }
+]
